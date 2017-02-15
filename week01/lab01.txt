@@ -20,3 +20,7 @@ drwxr-xr-x  2 faisal.rizky StafCS 4096 Feb 14 06:36 week09
 drwxr-xr-x  2 faisal.rizky StafCS 4096 Feb 14 06:36 week10
 drwxr-xr-x  2 faisal.rizky StafCS 4096 Feb 14 06:39 xtra
 /home/fasilkom/mahasiswa/f/faisal.rizky/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 15 Feb 2017 at 13:57:36
+Today is 15 Feb 2017 at 14:06:20
+Today is 15 Feb 2017 at 14:08:14
