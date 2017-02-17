@@ -1,0 +1,8 @@
+w01-170214-13-LR-About: Pengenalan Lisensi, From: hhtps://rms46.vlsm.org/1/70.pdf
+w01-170214-13-LR-About: Pengenalan Lisensi, From: hhtps://rms46.vlsm.org/1/70.pdf
+w01-170214-14-PS-About: Scripting(Membahas fungsi dasar scripting(echo,pipe,etc) PS, From: Arsip RMS week-02-Scripting-01
+w01-170214-14-PS-About: Scripting(Membahas fungsi dasar scripting(echo,pipe,etc) PS, From: Arsip RMS week-02-Scripting-01.pdf
+w01-160214-13-PS-About: Scripting(Command for Programmers,Case,Diff,awk,Membahas soal tentang Scripting), From: Arsip RMS, week-02-Scripting-02.pdf
+w01-160214-13-PS-About: Scripting(Command for Programmers,Case,Diff,awk,Membahas soal tentang Scripting), From: Arsip RMS, week-02-Scripting-02.pdf
+w01-160214-14-PS-About: Bourne Shell Programming(Case,Diff,Looping,kill), From: Arsip RMS, week-02-Scripting-02.pdf
+w01-160214-14-PS-About: Bourne Shell Programming(Case,Diff,Loop,Kill), From: Arsip RMS, week-02-Scripting-02.pdf
