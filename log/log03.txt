@@ -2,7 +2,7 @@ w03-170228-13-LR-About: KUIS,Bios Legacy
 w03-170228-13-LR-About: KUIS,Bios Legacy
 w03-170228-14-LR-About: KUIS,Bios Legacy
 w03-170228-14-LR-About: KUIS,Bios Legacy
-w01-170302-13-PS-About: Scripting(Command for Programmers,Case,Diff,awk,Membahas soal tentang Scripting), From: Arsip RMS, week-02-Scripting-02.pdf
-w01-170214-13-PS-About: Scripting(Command for Programmers,Case,Diff,awk,Membahas soal tentang Scripting), From: Arsip RMS, week-02-Scripting-02.pdf
-w01-170214-14-PS-About: Bourne Shell Programming(Case,Diff,Looping,kill), From: Arsip RMS, week-02-Scripting-02.pdf
-w01-170214-14-PS-About: Bourne Shell Programming(Case,Diff,Loop,Kill), From: Arsip RMS, week-02-Scripting-02.pdf
+w03-170302-13-PS-About: Scripting(Command for Programmers,Case,Diff,awk,Membahas soal tentang Scripting), From: Arsip RMS, week-02-Scripting-02.pdf
+w03-170302-13-PS-About: Scripting(Command for Programmers,Case,Diff,awk,Membahas soal tentang Scripting), From: Arsip RMS, week-02-Scripting-02.pdf
+w03-170302-14-PS-About: Bourne Shell Programming(Case,Diff,Looping,kill), From: Arsip RMS, week-02-Scripting-02.pdf
+w03-170302-14-PS-About: Bourne Shell Programming(Case,Diff,Loop,Kill), From: Arsip RMS, week-02-Scripting-02.pdf
