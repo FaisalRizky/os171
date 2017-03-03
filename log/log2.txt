@@ -1,8 +1,0 @@
-w02-210214-13-PS-About: Scripting,Programing
-w02-210214-13-PS-About: Scripting,Programing
-w02-210214-14-PS-About: Scripting,Programing
-w02-210214-14-PS-About: Scripting,Programing
-w02-230214-13-PS-About: Scripting,Programing(C)
-w02-230214-13-PS-About: Scripting,Programing(C)
-w02-230214-14-PS-About: Scripting,Programing(C),Pointer di C
-w02-230214-14-PS-About: Scripting,Programing(C),Pointer di C
