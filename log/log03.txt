@@ -1,0 +1,8 @@
+w03-170228-13-LR-About: KUIS,Bios Legacy
+w03-170228-13-LR-About: KUIS,Bios Legacy
+w03-170228-14-LR-About: KUIS,Bios Legacy
+w03-170228-14-LR-About: KUIS,Bios Legacy
+w03-170302-13-LR-About: perbedaan BIOS dan UEFI
+w03-170302-13-LR-About: perbedaan BIOS dan UEFI
+w03-170302-14-LR-About: perbedaan BIOS dan UEFI
+w03-170302-14-LR-About: perbedaan BIOS dan UEFI
