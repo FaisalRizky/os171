@@ -1,0 +1,8 @@
+w05-170314-13-LR-About: Background, Swaping, Memory Allocation, Segmentation
+w05-170314-13-LR-About: Background, Swaping, Memory Allocation, Segmentation
+w05-170314-14-LR-About: Background, Swaping, Memory Allocation, Segmentation
+w05-170314-14-LR-About: Background, Swaping, Memory Allocation, Segmentation
+w05-170316-13-LS-About: Paging
+w05-170316-13-LS-About: Paging
+W05-170316-14-LS-About: Paging
+w05-170316-14-LS-About: Paging
